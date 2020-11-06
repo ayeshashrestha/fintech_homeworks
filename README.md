@@ -1,5 +1,5 @@
 # Fintech weekly assignment
 ---
-This following respitory includes weekly assignments in their corresponding folders.
+This following repository includes weekly assignments in their corresponding folders.
 
 Thank you!
