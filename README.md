@@ -1,2 +1,3 @@
-# fintech_homeworks
-weekly assignments
+# Fintech weekly assignment
+---
+This following respitory includes weekly assignments in their corresponding folders.
