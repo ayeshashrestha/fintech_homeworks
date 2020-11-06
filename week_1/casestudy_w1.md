@@ -7,4 +7,8 @@ Nest Wealth was founded by Randy Cass in 2014, which is Canada’s first SaaS ba
 
 Nest Wealth raised its’ $1.5 million fund through seed funding from Metroland Media in August 5th, 2015. Seed funding is the money or funds collected in order to start the business [(Crunchbase, 2020)](https://www.crunchbase.com/organization/nest-wealth/company_financials). In 2017, National bank of Canada invested $6 million as a strategic minority investment along with signing commercial agreements between the two corporations. The following agreement included National Bank using Nest Wealth’s innovative investment technologies in order to boost their digital platforms for providing better client benefits [(National Bank, 2017)](https://www.nbc.ca/en/about-us/news/news-room/press-releases/2017/20170421-National-Bank-Minority-Investment-Nest-Wealth.html). Moreover, National Bank and Nest Wealth signed a minority equity investment and long-term service agreement, which, has been the biggest deal signed with $50 million fund collected. Also, the recent deal signed builds a strong foundation for the start-up to work with retail wealth business as well as NBIN in order to build great client digital experiences for the entire industry. Lastly, it shows traditional financial institutes taking innovative approaches by partnering and investing in a pioneering start-up which requires great degree of trust and flexibility [(Nest Wealth, 2020)](https://www2.nestwealth.com/today-is-a-big-day-in-the-history-of-nest-wealth/). 
 
+---
+## Nest Wealth's Business Activities
+
+
 
