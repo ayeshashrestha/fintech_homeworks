@@ -18,3 +18,6 @@ Nest Wealth functions differently than its competitors such as Wealthsimple and 
 
 
 Main technologies that Nest Wealth uses are a mixture of relational and NoSQL databases. The organisation needs a combination of both in order to store predictable and structured data as well as scale flexible and rapid growth of data [(Johnson, 2016](https://resources.whitesourcesoftware.com/blog-whitesource/when-to-consider-a-nosql-vs-relational-database). The software tooling is done through Node.js which is an open-source JavaScript runtime environment which is outstanding for run high data concentrated real-time applications on various shared devices efficiently [(Kaneriya, 2020)](https://www.simform.com/what-is-node-js/). Moreover, AngularJS was used for front-end which is being switched over to Angular 6. This would allow their developers to develop toolkits and strategies without worrying about front or back end capacity. Additionally, Nest Wealth has invested in internal tools like comprehensive design systems, that help build and design prototype and applications quickly. Lastly, managing integrations, deployment and continuous delivery is done through Jenkins [(Soloshchuk, 2019)](https://wealth.insart.com/nest-wealth/#:~:text=Main%20technologies,end%20was%20written%20in%20AngularJS).
+
+---
+## Investment Management Landscape
